@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FakiruSilicon
 - 👀 I’m interested in Cardano Blockchain, Stakepool, ISPO, Security Blockchain
-- 🌱 I’m currently learning Haskell Plutus
+- 🌱 I’m currently learning Haskell Plutus and Stakepools
 - 💞️ I’m looking to collaborate on Haskell Plutus and Cardano Blockchain.
 - 📫 DM!
 
